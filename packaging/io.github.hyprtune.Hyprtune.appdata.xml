@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.hyprtune.Hyprtune</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Hyprtune</name>
+  <summary>Settings for Hyprland, Waybar, awww and fuzzel</summary>
+  <description>
+    <p>Tune your Hyprland desktop with live preview: gaps, borders, blur, tiling layouts, input, the Waybar bar,
+    awww wallpapers and the fuzzel launcher. Works with both the new Lua config and the legacy hyprlang config,
+    and keeps your own files' comments intact.</p>
+  </description>
+  <launchable type="desktop-id">hyprtune.desktop</launchable>
+  <provides><binary>hyprtune</binary></provides>
+  <content_rating type="oars-1.1"/>
+  <releases><release version="0.1.0" date="2026-10-18"/></releases>
+</component>

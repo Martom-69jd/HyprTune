@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Hyprtune
+GenericName=Hyprland Settings
+Comment=Tune Hyprland, Waybar, awww and fuzzel
+Exec=hyprtune
+Icon=hyprtune
+Terminal=false
+Categories=Settings;DesktopSettings;
+Keywords=hyprland;waybar;fuzzel;awww;swww;tiling;wayland;settings;
+StartupWMClass=hyprtune

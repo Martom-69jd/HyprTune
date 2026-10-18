@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyprtune"
+version = "0.1.0"
+description = "A settings app for Hyprland, Waybar, awww and fuzzel"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["PySide6-Essentials>=6.6"]
+
+[project.scripts]
+hyprtune = "hyprtune.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"hyprtune.data" = ["*.json", "*.svg"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
