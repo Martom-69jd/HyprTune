@@ -1,4 +1,16 @@
 # Hyprtune
+<img width="1000" height="820" alt="preview" src="https://github.com/user-attachments/assets/a96f8e02-eea2-475e-83bd-3b3c515f88da" />
+
+<img width="1000" height="820" alt="preview (1)" src="https://github.com/user-attachments/assets/d21b1070-573b-4b07-b2fd-fb5a0d69513f" />
+
+<img width="1180" height="800" alt="preview (2)" src="https://github.com/user-attachments/assets/57746940-ef28-4af4-a359-4805f59daf0f" />
+
+<img width="1180" height="800" alt="preview (3)" src="https://github.com/user-attachments/assets/68c1d5c9-f8a6-41ec-a094-4a6f5000d9c7" />
+
+<img width="1180" height="800" alt="preview (4)" src="https://github.com/user-attachments/assets/c79a9b11-445e-4889-8054-7c001bffd41e" />
+
+<img width="1180" height="800" alt="preview (5)" src="https://github.com/user-attachments/assets/d5b25f71-24ce-46ae-86f7-02b1175de8f4" />
+
 
 A settings app for **Hyprland**, **Waybar**, **awww** and **fuzzel**, in the spirit of
 [HyprMod](https://github.com/BlueManCZ/hyprmod): change a value, see it happen live, save when you like it.
